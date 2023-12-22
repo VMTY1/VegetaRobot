@@ -3,7 +3,7 @@ import json #by ctzfamioy
 import os
 
 ARQ_API_URL = "https://arq.hamker.in"
-ARQ_API_KEY =  "KGTHQB-IKDNAI-XXFCND-VDZFQI-ARQ"
+ARQ_API_KEY =  "QUIGZF-KMOLFL-XRZNZM-BUKTBY-ARQ"
 
 def get_user_list(config, key):
     with open('{}/VegetaRobot/{}'.format(os.getcwd(), config),
